@@ -17,7 +17,7 @@ To run this code, the following must be installed:
 - hdf5 (and the [torch-hdf5](https://github.com/deepmind/torch-hdf5/) package)
 - cudnn
 - qlua (for displaying results)
-- STN module(use this [stable repo](https://github.com/Fang-Haoshu/stnbhwd))
+- STN module(use this [stable repo](https://github.com/anonymous-123/stn))
 
 
 After all the installation is done, get the code. We will call the directory that you cloned this repo into `$SPPE_ROOT`
